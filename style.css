@@ -1,0 +1,8 @@
+.profile_img {
+  position: relative;
+}
+.profile_img img {
+width: 150px;
+height: 200px;
+
+}
